@@ -5,7 +5,7 @@ Created on Thu Jan 26 17:53:58 2023
 @author: user
 """
 
-myApiKey = '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'
+myApiKey = 'Your_API_KEY'
 import openai
 import os
 
